@@ -1,5 +1,5 @@
 
-Set up
+**Set up**
 Nexus 5 originally on M. Using 'hammerhead' on Lollipop.
 
 ---
@@ -8,11 +8,11 @@ Radare2
 
 1. Added r2 on Nethunter (Nexus 5, on Lollipop).  
 2. Use git clone instead of apt-get
-3. Try out the UI layout r2 -A -c=H /bin/ls then http://locahost:9090 
+3. Try out the UI layout r2 -A -c=H /bin/ls then http://locahost:9090 (via @maijin212)
 
 ---
 
-No OpenVPN on lollipop. Do policy-based routing.
+No OpenVPN on Lollipop. Do policy-based routing. Source.
 
 ---
 
@@ -20,13 +20,26 @@ Add exloitdb/sploitsearch via git not apt-get. Can't recall if already on Nethun
 
 ---
 
-List of tools accessible from terminal but not mentioned in menu
+List of tools accessible already available but not mentioned in menu
+Information Gathering
 nmap
+sslstrip 
 
----
+Vulnerability analysis
+sqlmap
 
-Tools I want to add
+Wireless attacks
+aircrack-ng
+asleap
+giskmet
+kismet (some issues, do -h to see options)
+mdk3
+pixiewps
+reaver
 
----
+Maintaining access
+dbd
 
-Tools not on Nethunter
+Sniffing and Spoofing
+sslsplit (message 'no proxyspec specified' so do -h to see options)
+wireshark (tries to run but has gtk-warning **: cannot open display: so do -h to see options)
