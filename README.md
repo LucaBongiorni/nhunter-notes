@@ -16,6 +16,8 @@ The following are my general notes about Nexus 5 on Nethunter, mainly around the
 **Exploit Database/Searchsploit**
 * Add exloitdb/sploitsearch via git clone (https://github.com/offensive-security/exploit-database)
 
+More to check out soon.
+
 ---
 
 ##Others available but not visible in the menu##
