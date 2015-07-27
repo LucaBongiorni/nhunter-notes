@@ -4,42 +4,43 @@ Nexus 5 originally on M. Using 'hammerhead' on Lollipop.
 
 ---
 
-Radare2
+*Radare2*
 
-1. Added r2 on Nethunter (Nexus 5, on Lollipop).  
-2. Use git clone instead of apt-get
-3. Try out the UI layout r2 -A -c=H /bin/ls then http://locahost:9090 (via @maijin212)
-
----
-
-No OpenVPN on Lollipop. Do policy-based routing. Source.
+* Added r2 on Nethunter (Nexus 5, on Lollipop).  
+* Use git clone instead of apt-get
+* Try out the UI layout r2 -A -c=H /bin/ls then http://locahost:9090 (via @maijin212)
 
 ---
 
-Add exloitdb/sploitsearch via git not apt-get. Can't recall if already on Nethunter.
+* No OpenVPN on Lollipop. Do policy-based routing. Source.
 
 ---
 
-List of tools accessible already available but not mentioned in menu
+* Add exloitdb/sploitsearch via git not apt-get. Can't recall if already on Nethunter.
+
+---
+
+*List of tools ( http://tools.kali.org/tools-listing) already available but not mentioned in menu*
+
 Information Gathering
-nmap
-sslstrip 
+* nmap
+* sslstrip 
 
 Vulnerability analysis
-sqlmap
+* sqlmap
 
 Wireless attacks
-aircrack-ng
-asleap
-giskmet
-kismet (some issues, do -h to see options)
-mdk3
-pixiewps
-reaver
+* aircrack-ng
+* asleap
+* giskmet
+* kismet (some issues, do -h to see options)
+* mdk3
+* pixiewps
+* reaver
 
 Maintaining access
-dbd
+* dbd
 
 Sniffing and Spoofing
-sslsplit (message 'no proxyspec specified' so do -h to see options)
-wireshark (tries to run but has gtk-warning **: cannot open display: so do -h to see options)
+* sslsplit (message 'no proxyspec specified' so do -h to see options)
+* wireshark (tries to run but has gtk-warning **: cannot open display: so do -h to see options)
