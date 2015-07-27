@@ -1,12 +1,12 @@
 
-*Initial Notes*
+##Initial Notes##
 I have Kali Nethunter on Nexus 5 that is on Lollipop.  For more info go to the Kali Linux Nethunter downloads page https://www.offensive-security.com/kali-linux-nethunter-download/
 
 The following are my general notes about Nexus 5 on Nethunter, mainly around the tools, set up, etc.  So far I've looked at the list of tools on http://tools.kali.org/tools-listing.  
 
 ---
 
-** New additions **
+##New additions##
 
 **Radare2**
 * Add Radare2 via git clone (https://github.com/radare/radare2) not apt-get
@@ -18,7 +18,7 @@ The following are my general notes about Nexus 5 on Nethunter, mainly around the
 
 ---
 
-**Other tools available not mentioned in the menu**
+##Others available but not visible in the menu##
 
 Information Gathering
 * nmap 
