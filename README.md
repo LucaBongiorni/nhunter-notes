@@ -1,12 +1,10 @@
 
 ##Initial Notes##
-I have Kali Nethunter on Nexus 5 that is on Lollipop.  For more info go to the Kali Linux Nethunter downloads page https://www.offensive-security.com/kali-linux-nethunter-download/
-
-The following are my general notes about Nexus 5 on Nethunter, mainly around the tools, set up, etc.  So far I've looked at the list of tools on http://tools.kali.org/tools-listing.  There are some more to try out.
+The following are my general notes about Nexus 5 (Lollipop) on Nethunter, mainly around the tools, set up, etc.  So far I've looked at the list of tools on http://tools.kali.org/tools-listing but also looking into what else can be done on here.  More info at https://www.offensive-security.com/kali-linux-nethunter-download/
 
 ---
 
-##New additions##
+##New tools##
 
 **Radare2**
 * Add Radare2 via git clone (https://github.com/radare/radare2) not apt-get
@@ -31,7 +29,6 @@ Vulnerability analysis
 * sqlmap
 
 Wireless attacks
-* aircrack-ng
 * asleap
 * giskmet
 * mdk3
