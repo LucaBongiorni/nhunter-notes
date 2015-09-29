@@ -42,7 +42,7 @@ Maintaining access
 
 ---
 
-## Other useful Github links relationg to Android penetration testing
+## Other useful Github links relating to Android penetration testing
 
 * DSploit https://github.com/Welsen97/DSploit_Scripts
 * Android Network Penetration Testing Tools https://github.com/SimeonUS/Android-Network-Penetration-Tools-
