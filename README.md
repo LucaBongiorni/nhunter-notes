@@ -42,8 +42,11 @@ Maintaining access
 
 ---
 
-## Other useful Github links relating to Android penetration testing
+## Other useful links in Android penetration testing
 
 * DSploit https://github.com/Welsen97/DSploit_Scripts
 * Android Network Penetration Testing Tools https://github.com/SimeonUS/Android-Network-Penetration-Tools-
 * Pwn Pad Arsenal Tools https://github.com/vavkamil/Pwn-Pad-Arsenal-Tools
+* Android application penetration testing on Infosec Institute http://resources.infosecinstitute.com/android-application-penetration-testing-setting-certificate-installation-goatdroid-installation/
+* Zimperium zANTI https://www.zimperium.com/zanti-mobile-penetration-testing
+* 
